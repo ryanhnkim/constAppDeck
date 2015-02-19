@@ -3,8 +3,8 @@ title       : My First Shiny App Project
 subtitle    : Construction Spending Projections
 author      : Ryan Kim
 job         : 
-framework   : revealjs        # {io2012, html5slides, shower, dzslides, ...}
-revealjs    : {theme: moon, transition: line}
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+#revealjs    : {theme: moon, transition: line}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
