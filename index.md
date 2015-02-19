@@ -13,15 +13,17 @@ github:
     repo: constAppDeck
 ---
 
-## Read-And-Delete
+## The US Construction Spending Tracker
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
+
+
+http://rkim.shinyapps.io/constApp/
+
+
 
 --- .class #id 
 
-## Slide 2
+## How it works
 
 Test slide 2
 
@@ -31,14 +33,14 @@ Test slide 2
 
 --- .class #id 
 
-## Slide 3
+## Plot Sample 1
 * Test 1
 * Test 2
 * Test 3
 
 --- .class #id 
 
-## Slide 4
+## Plot Sample 2
 * Test 1
 * Test 2
 * Test 3
