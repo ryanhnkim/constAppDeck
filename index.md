@@ -1,7 +1,7 @@
 ---
 title       : The US Construction Spending Tracker
 subtitle    : Coursera - Developing Data Products Course Project
-author      : Ryan Kim \n February, 2015
+author      : Ryan Kim (02/2015)
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
