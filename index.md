@@ -33,9 +33,9 @@ It contsains monthly data from 01/31/2002 to 01/31/2015
 
 There are 3 types of spending sources
 
-1 Total: Private + Public
-2 Private: Private sector spending on Residential & Non-Residential projects
-3 Pulbic: Feberal & State government spending on various publich projects
+1. Total: Private + Public
+2. Private: Private sector spending on Residential & Non-Residential projects
+3. Pulbic: Feberal & State government spending on various publich projects
 
 --- .class #id 
 
