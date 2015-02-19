@@ -8,11 +8,10 @@ revealjs    : {theme: moon, transition: line}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
 github:
     user: ryanhnkim
     repo: constAppDeck
-
-knit        : slidify::knit2slides
 ---
 
 ## Read-And-Delete
