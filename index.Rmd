@@ -15,7 +15,7 @@ github:
 
 ## The US Construction Spending Tracker
 
-#### US Census provides monthly estimates of the total dollar value of construction work done in the U.S. 
+US Census provides monthly estimates of the total dollar value of construction work done in the U.S. 
 
 This application pulls the latest data from US Census website and automatically updates the charts. 
 
