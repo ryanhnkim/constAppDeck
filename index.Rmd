@@ -13,27 +13,29 @@ github:
     repo: constAppDeck
 ---
 
-## The US Construction Spending Tracker
+## The US Construction Spending Tracker Overview
 
 US Census provides monthly estimates of the total dollar value of construction work done in the U.S. 
 
-This application pulls the latest data from US Census website and automatically updates the charts. 
+This Web application pulls the latest data from the US Census website and automatically updates the charts. 
 
-It also provides forecasted values of overall spending $ using ARIMA function based on the subset of data displayed on the graph. 
+It also provides forecasted values of overall spending using ARIMA function based on the subset of data selected by user. 
 
-http://rkim.shinyapps.io/constApp/
+You can access the application here: http://rkim.shinyapps.io/constApp/
 
 
 
 --- .class #id 
 
-## How it works
+## About the Data
 
-Test slide 2
+It contsains monthly data from 01/31/2002 to 01/31/2015
 
-* Test 1
-* Test 2
-* Test 3
+There are 3 types of spending sources
+
+1 Total: Private + Public
+2 Private: Private sector spending on Residential & Non-Residential projects
+3 Pulbic: Feberal & State government spending on various publich projects
 
 --- .class #id 
 
