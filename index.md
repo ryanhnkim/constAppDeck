@@ -44,10 +44,3 @@ Test slide 2
 * Test 2
 * Test 3
 
---- .class #id 
-
-## Slide 5
-* Test 1
-* Test 2
-* Test 3
-
