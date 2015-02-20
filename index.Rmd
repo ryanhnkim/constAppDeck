@@ -15,6 +15,7 @@ github:
 
 ## The US Construction Spending Tracker Overview
 
+
 US Census provides monthly estimates of the total dollar value of construction work done in the U.S. 
 
 This Web application pulls the latest data from the US Census website and automatically updates the charts. 
@@ -29,6 +30,7 @@ You can access the application here: http://rkim.shinyapps.io/constApp/
 
 ## About the Data
 
+
 It contsains monthly data from 01/31/2002 to 01/31/2015
 
 There are 3 types of spending sources
@@ -39,7 +41,7 @@ There are 3 types of spending sources
 
 --- .class #id 
 
-## Plot Examle 1: Overall Spending - Total
+## Example 1: Overall Spending - Total
 
 <div style='text-align: center;'>
     <img height='300' src='plot1.png' />
@@ -51,10 +53,10 @@ also the number of months to forecast on the side bar
 
 --- .class #id 
 
-## Plot Examle 2: Non-Residential Details by Type - Total
+## Example 2: Non-Residential Details by Type - Total
 
 <div style='text-align: center;'>
-    <img height='400' src='plot2.png' />
+    <img height='350' src='plot2.png' />
 </div>
 
 * The above chart shows the break down of non-residential spendings by project type
