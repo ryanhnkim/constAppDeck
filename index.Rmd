@@ -40,12 +40,16 @@ There are 3 types of spending sources
 --- .class #id 
 
 ## Plot Sample 1
-* Test 1
+### I. Overall Spending
 
 <div style='text-align: center;'>
     <img height='300' src='plot1.png' />
 </div>
 
+* The blue line represents the actual data from the US census
+* The orange line is the mean forecasted and 80% confidnece intervals based on ARIMA modeling
+* The forecasted value gets automatically updated when the user changes the actual peiriod to display and 
+also the number of months to forecast on the side bar
 --- .class #id 
 
 ## Plot Sample 2
