@@ -40,8 +40,11 @@ There are 3 types of spending sources
 --- .class #id 
 
 ## Plot Sample 1
+* Test 1
 
-
+<div style='text-align: center;'>
+    <img height='300' src='plot1.png' />
+</div>
 
 --- .class #id 
 
