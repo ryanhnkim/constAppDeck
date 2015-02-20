@@ -41,8 +41,8 @@ There are 3 types of spending sources
 
 ## Plot Sample 1
 * Test 1
-* Test 2
-* Test 3
+
+![width]("plot1.png")
 
 --- .class #id 
 
